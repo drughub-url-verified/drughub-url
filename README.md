@@ -30,3 +30,5 @@ If you aim to explore this darknet marketplace, make your security a priority an
 
 
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/local/backup.webp" alt="image" style="max-width: 100%;"><a>
+
+Update:  01 October Link is now functioning and live
